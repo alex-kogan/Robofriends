@@ -10,5 +10,3 @@ const Scroll = (props) => {
 }
 
 export default Scroll
-
-<th onClick={headerClick} direction='ascending'>First name</th>
